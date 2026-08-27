@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 # Server info
 hostnamectl | grep "Operating System"
